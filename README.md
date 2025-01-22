@@ -1,1 +1,1 @@
-# Emotion_Detector_video-datasets_CNN-RNN
+# emotion-detector-for-large-video-datasets-using-cnn-rnn
