@@ -21,4 +21,8 @@ This project implements a deep learning model combining Convolutional Neural Net
 
 ---
 
-## **Directory Structure**
+
+## **Results**
+Training accuracy: 90%
+Validation accuracy: 85%
+Test accuracy: 83%
