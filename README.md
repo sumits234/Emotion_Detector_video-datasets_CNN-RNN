@@ -17,7 +17,7 @@
 ## 🚀 Project Overview
 This project implements an **Emotion Detection / Recognition system** using **video datasets** by combining:
 - **CNN** for extracting spatial features from frames
-- **RNN (LSTM/GRU)** for modeling temporal sequence patterns across frames
+- **RNN (LSTM)** for modeling temporal sequence patterns across frames
 
 The model learns emotions from **facial expressions in videos** and predicts the emotion class for input video clips.
 
