@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Deep Learning](https://img.shields.io/badge/DeepLearning-CNN%20%2B%20RNN-green.svg)]()
 [![Video](https://img.shields.io/badge/Data-Video%20Dataset-orange.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](#license)
 
 🔗 **GitHub Repo:** https://github.com/sumits234/Emotion_Detector_video-datasets_CNN-RNN
 
