@@ -51,6 +51,6 @@ Preprocessing (Resize, Normalize)
    ↓
 CNN → Frame Feature Vectors
    ↓
-RNN (LSTM/GRU) → Temporal Learning
+RNN (LSTM) → Temporal Learning
    ↓
 Emotion Prediction
